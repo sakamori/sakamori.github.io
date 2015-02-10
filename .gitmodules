@@ -1,0 +1,4 @@
+[submodule "event/daimonsakenight"]
+	path = event/daimonsakenight
+	url = https://github.com/sakamori/daimonsakenight.git
+	branch = gh-pages
