@@ -1,0 +1,19 @@
+
+body {
+    background: #209f00;
+}
+
+#wrap {
+    height: auto;
+}
+
+#wrap h1 {
+    text-align: center;
+    margin: 3em auto 0;
+}
+
+#wrap p {
+    text-align: center;
+    padding: 0.5em;
+    color: #fff;
+}
