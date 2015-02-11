@@ -7,7 +7,11 @@
 
 ## Usage
 
+サブモジュール（下位ページ）のアップデート
 
+```bash
+$ git submodule foreach 'git checkout master; git pull'
+```
 
 ## Licence
 
